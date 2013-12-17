@@ -1,4 +1,4 @@
-CFLAGS=-Wall -O2
+CFLAGS=-Wall -Wno-deprecated -O2
 FLAGS=-framework GLUT -framework OpenGL -framework Cocoa
 CC=clang++
 SRC=src/

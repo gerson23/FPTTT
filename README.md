@@ -50,7 +50,7 @@ Plataform
 Developed and tested in a Mac OS X 10.8.4 machine using Vim editor and Clang++
 compiler.
 
-UPDATE: most of functions are now flagged as depecrated in Mac OS X 10.9.
+UPDATE: most of functions are now flagged as deprecated in Mac OS X 10.9.
 
 Actually it is not cross-plataform.
 
